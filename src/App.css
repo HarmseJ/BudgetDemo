@@ -1,0 +1,12 @@
+:root {
+  --primary-color: rgb(30, 31, 32);
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--primary-color);
+  color: white;
+}
